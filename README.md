@@ -9,6 +9,7 @@ Features:
 - Mithril / Titanium nuker
 - Mithril / Titanium Auto Miner
 - Powder chest aura / auto open
+- Blatant and spec-legit modes for all features
 ---
 
 ## Installation
